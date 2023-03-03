@@ -252,7 +252,7 @@ footer .social-icons p {
 }
 
 footer .social-icons p i {
-  font-size: 1.3125em;
+  font-size: 1em;
 }
 
 footer .copyright {
@@ -792,7 +792,7 @@ input[type=button] {
   }
   
   /* Reviews */
-  
+
   .reviews article div {
     width: 42%;
   }
