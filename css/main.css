@@ -252,7 +252,10 @@ footer .social-icons p {
 }
 
 footer .social-icons p i {
-  font-size: 1em;
+  font-size: 1.325em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer .copyright {
