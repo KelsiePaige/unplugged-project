@@ -156,7 +156,6 @@ textarea {
   .content-wrapper {
     width: 90%;
     margin: 50px 0;
-    border: 1px solid red;
   }
   
   /* -------------------- Base Header - Footer Styles -------------------- */
@@ -559,7 +558,6 @@ input[type=button] {
   .content-wrapper {
     max-width: 640px;
     margin: 100px 0;
-    border: 1px solid yellow; 
   }
       
   h2 {
@@ -767,7 +765,6 @@ input[type=button] {
 
   .content-wrapper {
     max-width: 960px;
-    border: 1px solid blue;
   }
 
   h2 {
