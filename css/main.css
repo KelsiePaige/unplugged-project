@@ -738,6 +738,7 @@ input[type=button] {
   .faq .content-wrapper {
     justify-content: space-between;
     margin: 135px 0;
+    white-space: wrap;
   }
 
   .faq-content {
@@ -849,6 +850,7 @@ input[type=button] {
   ========================================================================== */
   .faq .content-wrapper {
     margin: 130px 0;
+    white-space: wrap;
   }
   
   .faq h2 {
