@@ -4,3 +4,6 @@
 node_modules
 dist
 .cache
+unplugged-desktop
+unplugged-mobile
+unplugged-tablet
